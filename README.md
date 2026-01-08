@@ -16,8 +16,9 @@ When      : 2025 december - 2026 januari
 Developer : School Project
 Engine    : Unity
 ```
-[Florida Man On The Run - Itch Link](https://yrgo-game-creator.itch.io/florida-man-on-the-run)
-
+> [!NOTE]
+>[*Read more about Florida Man On The Run*](FloridaManOnTheRun#florida-man-on-the-run) ← Click here for more info!
+> Useful information that users should know, even when skimming content.
 ---
 
 ## [***Template***](NameOfProject#name-of-project) ← Click here for more info!
@@ -31,6 +32,7 @@ When      : 2025 december - 2026 januari
 Developer : Developer Name
 Engine    : Unity
 ```
+## [*Florida Man On The Run*](FloridaManOnTheRun#florida-man-on-the-run) ← Click here for more info!
 [X - Itch Link](https://yrgo-game-creator.itch.io/florida-man-on-the-run)
 
 ---
