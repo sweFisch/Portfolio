@@ -22,6 +22,7 @@ Genré: Action, Story, Destruction
 ## [***Template***](NameOfProject#name-of-project) ← Click here for more info!
 
 Gameplay Programmer
+
 *2025 december - 2026 januari*
 
 Developer: [DeveloperName](https://www.yrgo.se/)
