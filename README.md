@@ -8,11 +8,11 @@ This page contains a preview of all my projects, click the name of the project t
 Gameplay Programmer  
 *2025 december - 2026 januari*
 
-Developer: [YRGO](https://www.faroutgamestudio.com/) 
+Developer: [YRGO](https://www.yrgo.se/)
 Engine: Unity  
 Genré: Action, Story, Destruction
 
-<img src="Images\FloridaMan-Lazy_Crock.jpg"/>
+<img src="Images\FloridaMan-KeyArt.jpg"/>
 
 ---
 
@@ -21,10 +21,10 @@ Genré: Action, Story, Destruction
 Gameplay Programmer  
 *2025 december - 2026 januari*
 
-Developer: [DeveloperName](https://www.fischer.to/) 
+Developer: [DeveloperName](https://www.yrgo.se/) 
 Engine: Unity  
 Genré: Action, Story, Destruction
 
-<img src="Images\FloridaMan-Lazy_Crock.jpg"/>
+<img src="Images\Template-KeyArt.jpg"/>
 
 ---
