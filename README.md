@@ -5,7 +5,7 @@ This page contains a preview of all my projects, click the name of the project t
 # Games
 ## [***Florida Man On The Run***](FloridaManOnTheRun#florida-man-on-the-run) ← Click here for more info!
 
-Gameplay Programmer  
+Gameplay Programmer  / Project Manager / Producer 
 *2025 december - 2026 januari*
 
 Developer: [YRGO](https://www.yrgo.se/)
@@ -20,7 +20,7 @@ Genré: Action, Story, Destruction
 
 ## [***Template***](NameOfProject#name-of-project) ← Click here for more info!
 
-Gameplay Programmer  / Project Manager / Producer
+Gameplay Programmer  / Project Manager / Producer 
 *2025 december - 2026 januari*
 
 Developer: [DeveloperName](https://www.yrgo.se/)
