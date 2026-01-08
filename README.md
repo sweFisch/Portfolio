@@ -9,7 +9,9 @@ Gameplay Programmer
 *2025 december - 2026 januari*
 
 Developer: [YRGO](https://www.yrgo.se/)
+
 Engine: Unity  
+
 Genré: Action, Story, Destruction
 
 <img src="Images\FloridaMan-KeyArt.jpg"/>
@@ -18,11 +20,13 @@ Genré: Action, Story, Destruction
 
 ## [***Template***](NameOfProject#name-of-project) ← Click here for more info!
 
-Gameplay Programmer  
+Gameplay Programmer  / Project Manager / Producer
 *2025 december - 2026 januari*
 
-Developer: [DeveloperName](https://www.yrgo.se/) 
+Developer: [DeveloperName](https://www.yrgo.se/)
+
 Engine: Unity  
+
 Genré: Action, Story, Destruction
 
 <img src="Images\Template-KeyArt.jpg"/>

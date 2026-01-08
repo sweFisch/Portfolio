@@ -2,10 +2,12 @@
 
 <img src="Images\FloridaMan-Lazy_Crock_CROP.jpg" width="100%"/>
 
-Worked as **Gameplay Programmer**  
+Worked as **Gameplay Programmer / Project Manager / Producer**  
 *2025 December - 2026 Januari*
 
-Intro to project
+Florida Man on The Run is a 2D side scrolling extreme sports game in the vein of Tony Hawk / Dave Mirra BMX and other more arcade Sport Games, with graphics inspired by year 2000 cartoons.
+I developed and pitched the game idea during a game design course and it won by external jury to be worked on as a group.
+We made the game during 8 weeks with 3 programmers and 4 artists.
 
 ## Gameplay
 
@@ -39,10 +41,10 @@ Intro to project
   </tr>
 </table>
 
-I worked on....
-
-I improved....
+I worked on the core concept of the game. 
+The player controller. 
+The look and feel of the game together with the artists.
+Sound and UI elements.
 
 ###  Tools I worked with:  
-[SLATE](https://slate.paradoxnotion.com/): Created cutscenes and custom action clips  
-[NodeCanvas](https://nodecanvas.paradoxnotion.com/): Created FSMs, behaviour trees and custom nodes.
+[Unity](https://www.unity.com/): Game engine
