@@ -54,12 +54,19 @@ We made the game during 8 weeks with 3 programmers and 4 artists.
 
 A tool for quickly placing random perfab assets along a line.
 Each Art Prefab are referenced in a Scriptable Object containting the perfered distance it needs to fit, and a offset value.
+
 [ArtObjectSO.cs](/Script/ArtTool/ArtObjectSO.cs)
+
 That is then put in another Scriptable Object that contains multiple Arrays of the different type of Art Assets.
+
 [ArtObjectCollectionsSO.cs](/Script/ArtTool/ArtObjectCollectionSO.cs)
+
 The placement is handled by the ArtTool script.
+
 [ArtTool.cs](/Script/ArtTool/ArtTool.cs)
+
 And the interface for the user in an Editor Script
+
 [ArtToolEditorScript.cs](/Script/Editor/ArtTool/ArtToolEditorScript.cs)
 
 
