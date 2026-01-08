@@ -31,13 +31,20 @@ We made the game during 8 weeks with 3 programmers and 4 artists.
 - Player interactions with external triggers
 - Talking and adding functionality to Game managers, UI manager
 - Scriptable Objects
+- State Machine
+- Singeltons
 
 **Other tasks & Improvements I made:**  
 - Animation controller using .crossfade, Integration of animations, Some Animation work
 - Particle system integration
 - Tooling using Scriptable Objects for placement of prefabs in levels
 
-**Tools Art Tool for level design**
+---
+
+## Tools Created 
+
+**Art Tool for level design**
+
 <table>
   <tr>
   <!-- Insert Gif showing the tool -->
