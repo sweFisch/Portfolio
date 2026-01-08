@@ -17,8 +17,7 @@ Developer : School Project
 Engine    : Unity
 ```
 > [!NOTE]
->[*Read more about Florida Man On The Run*](FloridaManOnTheRun#florida-man-on-the-run) ← Click here for more info!
-> Useful information that users should know, even when skimming content.
+>[***Read more about Florida Man On The Run***](FloridaManOnTheRun#florida-man-on-the-run) ← Click here for more info!
 ---
 
 ## [***Template***](NameOfProject#name-of-project) ← Click here for more info!
