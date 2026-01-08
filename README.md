@@ -10,12 +10,13 @@ This page contains a preview of all my projects, click the name of the project t
 <img src="Images\FloridaMan-KeyArt.jpg"/>
 
 ```
-Role   : Gameplay Programmer, Project Manager, Producer\
-When   : 2025 december - 2026 januari\
-Game   : [Florida Man On The Run - Itch Link](https://yrgo-game-creator.itch.io/florida-man-on-the-run)\
-Engine : Unity
+Game      : Florida Man On The Run!
+Role      : Gameplay Programmer, Project Manager, Producer
+When      : 2025 december - 2026 januari
+Developer : School Project
+Engine    : Unity
 ```
-
+[Florida Man On The Run - Itch Link](https://yrgo-game-creator.itch.io/florida-man-on-the-run)
 
 ---
 
@@ -24,10 +25,12 @@ Engine : Unity
 <img src="Images\Template-KeyArt.jpg"/>
 
 ```
-Role   : Gameplay Programmer, Project Manager, Producer\
-When   : 2025 december - 2026 januari\
-Game   : [Florida Man On The Run - Itch Link](https://yrgo-game-creator.itch.io/florida-man-on-the-run)\
-Engine : Unity
+Game      : Game Name!
+Role      : Gameplay Programmer,
+When      : 2025 december - 2026 januari
+Developer : Developer Name
+Engine    : Unity
 ```
+[X - Itch Link](https://yrgo-game-creator.itch.io/florida-man-on-the-run)
 
 ---
