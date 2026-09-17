@@ -2,7 +2,8 @@
 <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 # Niklas Fischer Portfolio
 
-This page contains a preview of all my projects, click the name of the project to see my contributions!
+This page contains a preview of some of my projects.
+Click the name of the project read more!
 
 # Games
 ## [***Florida Man On The Run***](FloridaManOnTheRun#florida-man-on-the-run)
@@ -27,9 +28,8 @@ camera shake, score manager and score UI.
 
 ```
 > [!NOTE]
->[***Read more about Florida Man On The Run***](FloridaManOnTheRun#florida-man-on-the-run)
-## [*Florida Man On The Run*](FloridaManOnTheRun#florida-man-on-the-run) ← Click here for more info!
-[X - Itch Link](https://yrgo-game-creator.itch.io/florida-man-on-the-run)
+> [***Read more about Florida Man On The Run***](FloridaManOnTheRun#florida-man-on-the-run)
+> [Florida Man On The Run - Itch Link](https://yrgo-game-creator.itch.io/florida-man-on-the-run)
 
 ---
 
@@ -39,26 +39,32 @@ camera shake, score manager and score UI.
 
 ```
 Game      : Pale Reflections
-Role      : Gameplay Programmer, AI implementation, working with character artist regarding workflow
+Role      : Gameplay Programmer, AI implementation
 When      : 2026 march - 2026 june
 Developer : School Project
 Engine    : Unreal Engine
 Team Size : 6 people
 
-My primary role was makeing the AI enemy, and the roof enemy behave for our stealth/Horror game.
-AI states using bluprints and the different Unreal Engine tools for pathfinding and behaviors.
-Blood camera shader using their node material system.
+A stealth/horror game where you only see the monsters through the mirrors.
+My primary role was makeing the main enemy AI and the roof enemy.
+The monser has sight, hearing, patrolling and different states
+affecting speed, animations and behavior.
+The AI states was done using bluprints and the different Unreal Engine tools
+for pathfinding and behaviors.
+I made and implemented the blood camera shader using Unreals node material system.
 Roof Cave in particle systems and trigger events.
 Particle systems for vial explotions.
+The work also involved talking to the character artist responsible 
+for the creatures and planning for the different animations needed.
+Creating the death cutscene together with the creature artist.
 
 ```
 > [!NOTE]
->[***Read more about Florida Man On The Run***](FloridaManOnTheRun#florida-man-on-the-run)
-## [*Pale Reflections*](PaleReflections#pale-reflections) ← Click here for more info!
-[X - Itch Link](https://yrgo.itch.io/pale-reflections)
+> ## [*Read more about Pale Reflections*](PaleReflections#pale-reflections)
+> [Pale Reflections - Itch Link](https://yrgo.itch.io/pale-reflections)
 
 ---
-## [***Mobile Game***](MobileGame#mobile-game) ← Click here for more info!
+## [***Mobile Game***](MobileGame#mobile-game)
 
 <img src="Images\MobileGame-KeyArt.jpg"/>
 
@@ -68,25 +74,59 @@ Role      : Gameplay Programmer/ Designer ect
 When      : 2026 januari - 2026 februari
 Developer : School Project
 Engine    : Unity
+Team size : solo
 
-Solo school assigment to do a mobile game.
-I focosued on the player control feel and getting the custom produceral level generator to be controllable.
-So random but with a ordered flow of possible challanges.
-Built a pooling system, and a custom level chunk structure within prefabs. 
+Solo school assigment to do a mobile game inbetween lectures about programming patterns.
+I focused on the player control feel and getting the custom produceral level generator
+to be controllable.
+Random challanges but with a ordered flow so it wont be impossible to play.
+Built using a pooling system and a custom level chunk structure within prefabs.
 Data objects primarly holding information about what objects to ask the pooling system for.
-Using scriptable objects and lots of objects talking to eachother.
+Using scriptable objects and different managers to create the level on the fly.
 Player controller using primarly physics casts (raycast and capsule casts), 
-a player state machine, swipe input handling and a modular powerups system that ties into the UI.
-A inverted game where the camera never moves but the world scrolls past using a central game manager.
-Curve World shader using shader graph.
+a player state machine, swipe input handling.
+A modular powerups system that ties into the UI and is extendable.
+A inverted game where the camera never moves but the world scrolls past it,
+using a central game manager controling much of the game.
+Made a curve world shader using shader graph and the game assets using some simple 3D modeling.
 Highscore saving to Firebase Database.
 
 ```
-## [*Mobile Game*](MobileGame#mobile-game) ← Click here for more info!
+> [!NOTE]
+> ## [*Mobile Game*](MobileGame#mobile-game)
+<!-- > [Template-Name - Itch Link](https://yrgo.itch.io/Template-Name) -->
 
 ---
 
-## [***Template-Name***](NameOfProject#name-of-project) ← Click here for more info!
+## [***Sokoban***](Sokoban#sokoban)
+
+<img src="Images\Template-KeyArt.jpg"/>
+
+```
+Game      : Sokoban of Ice and Fire
+Role      : Gameplay Programmer, Sprite artist
+When      : 2026 August - 2026 September
+Developer : School project
+Engine    : c++ and SDL
+Team size : 2 persons
+
+School assigment to create a sokoban game using the simple game engine we built
+from scratch in c++ only using SDL, FMOD, and other libraries as a base.
+The engine is using hot reloading so we can build the game while its running.
+I have done extensions to the base engine by: 
+Adding an level editor in engine.
+Implemented my own rule tile code.
+Made changes to the rendering and animation system.
+And we have added our own gameplay logic and sprites.
+
+```
+> [!NOTE]
+> ## [*Read more about Template-Name*](Template-Name#template-Name)
+> [Template-Name - Itch Link](https://yrgo.itch.io/Template-Name)
+---
+
+
+## [***Template-Name***](NameOfProject#name-of-project)
 
 <img src="Images\Template-KeyArt.jpg"/>
 
@@ -96,13 +136,15 @@ Role      : Gameplay Programmer,
 When      : 2025 december - 2026 januari
 Developer : Developer Name
 Engine    : Unity
+Team size : solo
+
+--short description-- 
+
 ```
-## [*Template-Name*](NameOfProject#name-of-project) ← Click here for more info!
-[X - Itch Link](https://yrgo-game-creator.itch.io/xxxTEMPLATExxx)
-
+> [!NOTE]
+> ## [*Read more about Template-Name*](Template-Name#template-Name)
+> [Template-Name - Itch Link](https://yrgo.itch.io/Template-Name)
 ---
-
-
 
 
 ### Test
