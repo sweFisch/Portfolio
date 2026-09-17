@@ -60,7 +60,7 @@ Creating the death cutscene together with the creature artist.
 
 ```
 > [!NOTE]
-> ## [*Read more about Pale Reflections*](PaleReflections#pale-reflections)
+<!-- > ## [*Read more about Pale Reflections*](PaleReflections#pale-reflections) -->
 > [Pale Reflections - Itch Link](https://yrgo.itch.io/pale-reflections)
 
 ---
@@ -93,17 +93,18 @@ Highscore saving to Firebase Database.
 
 ```
 > [!NOTE]
-> ## [*Mobile Game*](MobileGame#mobile-game)
+This site is still wip
+<!-- > ## [*Mobile Game*](MobileGame#mobile-game) -->
 <!-- > [Template-Name - Itch Link](https://yrgo.itch.io/Template-Name) -->
 
 ---
 
 ## [***Sokoban***](Sokoban#sokoban)
 
-<img src="Images\Template-KeyArt.jpg"/>
+<img src="Images\Sokoban-KeyArt.jpg"/>
 
 ```
-Game      : Sokoban of Ice and Fire
+Game      : Sokoban of Ice and Fire - wip
 Role      : Gameplay Programmer, Sprite artist
 When      : 2026 August - 2026 September
 Developer : School project
@@ -121,8 +122,9 @@ And we have added our own gameplay logic and sprites.
 
 ```
 > [!NOTE]
-> ## [*Read more about Template-Name*](Template-Name#template-Name)
-> [Template-Name - Itch Link](https://yrgo.itch.io/Template-Name)
+> This is still a work in progress
+<!-- > ## [*Read more about Template-Name*](Template-Name#template-Name) -->
+<!-- > [Template-Name - Itch Link](https://yrgo.itch.io/Template-Name) -->
 ---
 
 
