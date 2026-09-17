@@ -5,7 +5,7 @@
 This page contains a preview of all my projects, click the name of the project to see my contributions!
 
 # Games
-## [***Florida Man On The Run***](FloridaManOnTheRun#florida-man-on-the-run) ← Click here for more info!
+## [***Florida Man On The Run***](FloridaManOnTheRun#florida-man-on-the-run)
 
 <img src="Images\FloridaMan-KeyArt.jpg"/>
 
@@ -17,18 +17,23 @@ Developer : School Project
 Engine    : Unity
 Team Size : 6
 
-Game pitch and idea by me. Inspired by very old games like TonyHawk Pro skateboarder and other extream sport games. 
+Game pitch and idea by me. 
+Inspired by very old games like TonyHawk Pro skateboarder and other extream sport games. 
 Made within the restrictions of a small team and a couple of weeks.
 Primary programming role, character controller, using a state machine and an input wrapper.
-Small art and level tools, camera parallax, tutorial promts and triggers, camera shake, score manager and score UI.
+Small art and level tools, camera parallax, tutorial promts and triggers, 
+camera shake, score manager and score UI.
 2D animation integration.
 
 ```
 > [!NOTE]
->[***Read more about Florida Man On The Run***](FloridaManOnTheRun#florida-man-on-the-run) ← Click here for more info!
+>[***Read more about Florida Man On The Run***](FloridaManOnTheRun#florida-man-on-the-run)
+## [*Florida Man On The Run*](FloridaManOnTheRun#florida-man-on-the-run) ← Click here for more info!
+[X - Itch Link](https://yrgo-game-creator.itch.io/florida-man-on-the-run)
+
 ---
 
-## [***Pale Reflections***](Pale Reflections#pale-reflections) ← Click here for more info!
+## [***Pale Reflections***](PaleReflections#pale-reflections)
 
 <img src="Images\PaleReflections-KeyArt.jpg"/>
 
@@ -47,7 +52,9 @@ Roof Cave in particle systems and trigger events.
 Particle systems for vial explotions.
 
 ```
-## [*Pale Reflections*](Pale Reflections#pale-reflections) ← Click here for more info!
+> [!NOTE]
+>[***Read more about Florida Man On The Run***](FloridaManOnTheRun#florida-man-on-the-run)
+## [*Pale Reflections*](PaleReflections#pale-reflections) ← Click here for more info!
 [X - Itch Link](https://yrgo.itch.io/pale-reflections)
 
 ---
