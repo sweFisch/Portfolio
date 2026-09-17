@@ -152,18 +152,3 @@ Team size : solo
  -->
 
 
-<!-- 
-
-### Test
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-    G-->D;
-    A-->G;
-```
-
- -->
-
