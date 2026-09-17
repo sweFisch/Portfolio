@@ -127,6 +127,7 @@ And we have added our own gameplay logic and sprites.
 <!-- > [Template-Name - Itch Link](https://yrgo.itch.io/Template-Name) -->
 ---
 
+<!-- 
 
 ## [***Template-Name***](NameOfProject#name-of-project)
 
@@ -148,6 +149,10 @@ Team size : solo
 > [Template-Name - Itch Link](https://yrgo.itch.io/Template-Name)
 ---
 
+ -->
+
+
+<!-- 
 
 ### Test
 ```mermaid
@@ -159,3 +164,6 @@ graph TD;
     G-->D;
     A-->G;
 ```
+
+ -->
+
