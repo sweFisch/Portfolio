@@ -28,8 +28,9 @@ camera shake, score manager and score UI.
 
 ```
 > [!NOTE]
-> [***Read more about Florida Man On The Run***](FloridaManOnTheRun#florida-man-on-the-run)
-> [Florida Man On The Run - Itch Link](https://yrgo-game-creator.itch.io/florida-man-on-the-run)
+> Read more about : [*** Florida Man On The Run***](FloridaManOnTheRun#florida-man-on-the-run)
+>
+> Itch Link : [Florida Man On The Run](https://yrgo-game-creator.itch.io/florida-man-on-the-run)
 
 ---
 
