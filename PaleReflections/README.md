@@ -15,13 +15,19 @@ affecting speed, animations and behavior.
 The AI states was done using bluprints and the different Unreal Engine tools
 for pathfinding and behaviors.
 I made and implemented the blood camera shader using Unreals node material system.
+
+<img src=".\img\pr_smoke.webp"/>
+
 Roof Cave in particle systems and trigger events.
+
+<img src=".\img\pr_vials.webp"/>
+
 Particle systems for vial explotions.
 And all the integration with the main enemy AI of the above.
 The work also involved talking to the creature artist and planning 
 for the different animations needed and possible behavior.
 
-<img src=".\img\pale_death.wep"/>
+<img src=".\img\pr_death.webp"/>
 
 
 We also created the death cutscene together.
@@ -30,10 +36,16 @@ We also created the death cutscene together.
 
 [See the game on Itch](https://yrgo.itch.io/pale-reflections)
 
-*CREDITS*
-Billy Becker (programmer, UI design)
-Freddy Erdal (programmer, sound design, voice acting (monster))
+**CREDITS**
+
 Niklas Fischer (programmer, animation)
+
+Billy Becker (programmer, UI design)
+
+Freddy Erdal (programmer, sound design, voice acting (monster))
+
 Aleksa Kleine (artist, textures, props)
+
 Anastasia Marchevskaia (artist, textures, environment, props)
+
 Rasmus Andersson (artist, monster design, animation)

@@ -17,7 +17,7 @@ Click the name of the project read more!
 <!-- SOKOBAN start -->
 ## [***Sokoban***](Sokoban#sokoban)
 
-<img src="Images\Sokoban-KeyArt.jpg"/>
+<img src=".\Images\Sokoban-KeyArt.jpg"/>
 
 ```
 Game      : Sokoban
@@ -52,7 +52,7 @@ And as a team we have added our own gameplay logic and sprites.
 <!-- Mobile Game - start  -->
 ## [***Mobile Game***](MobileGame#mobile-game)
 
-<img src="Images\MobileGame-KeyArt.jpg"/>
+<img src=".\Images\MobileGame-KeyArt.jpg"/>
 
 ```
 Game      : Mobile Game
@@ -90,7 +90,9 @@ Highscore saving to Firebase Database.
 <!-- Florida man on the Run - START - -->
 ## [***Florida Man On The Run***](FloridaManOnTheRun#florida-man-on-the-run)
 
-<img src="Images\FloridaMan-KeyArt.jpg"/>
+<!-- <img src="Images\FloridaMan-KeyArt.jpg"/> -->
+<img src=".\FloridaManOnTheRun\Images\FloridaMan_KeyArt.webp"/>
+
 
 ```
 Game      : Florida Man On The Run!
@@ -116,10 +118,13 @@ camera shake, score manager and score UI.
 ---
 <!-- Floridaman on the run - End -  -->
 
+
 <!-- Pale Reflections Start -->
 ## [***Pale Reflections***](PaleReflections#pale-reflections)
 
-<img src="Images\PaleReflections-KeyArt.jpg"/>
+<!-- <img src="Images\PaleReflections-KeyArt.jpg"/> -->
+
+<img src=".\PaleReflections\img\pr_smoke.webp"/>
 
 ```
 Game      : Pale Reflections
@@ -151,9 +156,9 @@ We also created the death cutscene together.
 <!-- Pale Reflections - End - -->
 
 <!-- Game jams and other things -->
-## [***Smaller projects***](NameOfProject#name-of-project)
+## [***Other projects***](SmallProjects#smallprojects)
 
-<img src="Images\Template-KeyArt.jpg"/>
+<img src=".\SmallProjects\img\elrich_0_tut.webp"/>
 
 ```
 Game      : Small Games or experiments
@@ -173,10 +178,16 @@ Game Jams:
     Programmer and 3D art
 
 ```
+
+
+
 > [!NOTE]
-> ## [*Read more about Template-Name*](Template-Name#template-Name)
+> ## [*Read more about other projects*](SmallProjects#smallprojects)
 > [Template-Name - Itch Link](https://yrgo.itch.io/Template-Name)
 ---
+
+
+
 <!-- Game Jams and other things -->
 
 
