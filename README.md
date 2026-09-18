@@ -2,14 +2,14 @@
 <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 # Niklas Fischer Portfolio
 ### About me
-I'm a games programmer that previosly worked as a 3D generalist for commersials and architecture,
-in the civil engineering space.
+I'm a games programmer that previosly worked as a 3D generalist for commersials, visualisations and architecture, primarly in the civil engineering space.
 
 Thanks for checking out my game portfolio!
 
 Click the name of the project read more!
 
-
+#### CV
+[If you are intressted of what I have done before you can check out my general - CV](CV#cv-site)
 
 
 # Games
@@ -124,7 +124,7 @@ camera shake, score manager and score UI.
 
 <!-- <img src="Images\PaleReflections-KeyArt.jpg"/> -->
 
-<img src=".\PaleReflections\img\pr_smoke.webp"/>
+<img src=".\PaleReflections\img\pr_keyArt.webp"/>
 
 ```
 Game      : Pale Reflections
@@ -148,7 +148,8 @@ for the different animations needed and possible behavior.
 We also created the death cutscene together.
 
 ```
-> [!NOTE]
+> [!NOTE] 
+> Read more about : [PaleReflections](PaleReflections#pale-reflections)
 > [Pale Reflections - Itch Link](https://yrgo.itch.io/pale-reflections)
 <!-- > ## [*Read more about Pale Reflections*](PaleReflections#pale-reflections) -->
 
