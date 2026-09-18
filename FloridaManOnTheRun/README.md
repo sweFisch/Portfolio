@@ -2,7 +2,7 @@
 <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 # *Florida Man On The Run*
 
-<img src="Images\FloridaMan-Lazy_Crock_CROP.jpg" width="100%"/>
+<img src=".\Images\FloridaMan_KeyArt.webp" width="100%"/>
 
 [Florida Man On The Run - Itch Link](https://yrgo-game-creator.itch.io/florida-man-on-the-run)
 
@@ -15,12 +15,7 @@ I developed and pitched the game idea during a game design course and it won by 
 We made the game during 8 weeks with 3 programmers and 4 artists.
 
 ## Gameplay
-
-<table>
-  <tr>
-    <td ><img src="Images\template-GIF.gif"/></td>
-  </tr>
-</table>
+<img src=".\Images\FloridaMan_tut.webp" />
 
 **During the project**
 - Game Concept and Pitch
@@ -53,22 +48,22 @@ We made the game during 8 weeks with 3 programmers and 4 artists.
 <table>
   <tr>
   <!-- Insert Gif showing the tool -->
-    <td ><img src="Images\template-GIF.gif"/></td>
+    <!-- <td ><img src="Images\template-GIF.gif"/></td> -->
   </tr>
 </table>
 
 A tool for quickly placing random perfab assets along a line.\
 Each Art Prefab are referenced in a Scriptable Object containting the perfered distance it needs to fit, and a offset value.\
-[ArtObjectSO.cs](/Script/ArtTool/ArtObjectSO.cs)
+[ArtObjectSO.cs](.\Script\ArtTool\ArtObjectSO.cs)
 
 That is then put in another Scriptable Object that contains multiple Arrays of the different type of Art Assets.\
-[ArtObjectCollectionsSO.cs](/Script/ArtTool/ArtObjectCollectionSO.cs)
+[ArtObjectCollectionsSO.cs](.\Script\ArtTool\ArtObjectCollectionSO.cs)
 
 The placement is handled by the ArtTool script.\
-[ArtTool.cs](/Script/ArtTool/ArtTool.cs)
+[ArtTool.cs](.\Script\ArtTool\ArtTool.cs)
 
 And the interface for the user in an Editor Script.\
-[ArtToolEditorScript.cs](/Script/Editor/ArtTool/ArtToolEditorScript.cs)
+[ArtToolEditorScript.cs](.\Script\Editor\ArtTool\ArtToolEditorScript.cs)
 
 
 Click the dropdown arrow or click the link below to see the code
@@ -337,12 +332,10 @@ public class ArtTool : MonoBehaviour
 ---
 
 ## Game Design
+<img src=".\Images\florida_mechanics.png" />
 
-<table>
-  <tr>
-    <td ><img src="Images\template-GIF.gif"/></td>
-  </tr>
-</table>
+
+[Pitch Deck (in swedish)](https://docs.google.com/presentation/d/1ioOs-vPZkcgnWMgCcra49xGrbvXPRhCvCwvBCf40Mqs/edit?usp=sharing)
 
 I worked on the core concept of the game.\
 The player controller.\

@@ -1,9 +1,16 @@
 <!-- Formating Docs -->
 <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 # Niklas Fischer Portfolio
+### About me
+I'm a games programmer that previosly worked as a 3D generalist for commersials and architecture,
+in the civil engineering space.
 
-This page contains a preview of some of my projects.
+Thanks for checking out my game portfolio!
+
 Click the name of the project read more!
+
+
+
 
 # Games
 
@@ -13,25 +20,30 @@ Click the name of the project read more!
 <img src="Images\Sokoban-KeyArt.jpg"/>
 
 ```
-Game      : Sokoban of Ice and Fire - wip
+Game      : Sokoban
 Role      : Gameplay Programmer, Sprite artist
 When      : 2026 August - 2026 September
-Developer : School project
-Engine    : c++ and SDL
-Team size : 2 persons
+Engine    : C++ and SDL
+Team size : solo -> growing to a 2 person team
 
-School assigment to create a sokoban game using the simple game engine we built
-from scratch in c++ only using SDL, FMOD, and other libraries as a base.
-The engine is using hot reloading so we can build the game while its running.
+School assigment to create a sokoban game using the simple game engine built
+from scratch in C++ primarly using SDL as a library.
+
+Engine features:
+Custom memory arena and data oriented entities
+Hot reloadable game logic DLL
+
 I have done extensions to the base engine by: 
-Adding an level editor in engine. (<-wip)
-Implemented my own rule tile code.
+Adding an level editor in engine. (<- wip)
+Implemented my own rule tile code. (<- wip)
 Made changes to the rendering and animation system.
-And we have added our own gameplay logic and sprites.
+And as a team we have added our own gameplay logic and sprites.
 
 ```
 > [!NOTE]
-> This game and site is wip
+> This game and site is WIP
+>
+> [Read more about the Sokoban project](Sokoban#sokoban)
 <!-- > ## [*Read more about Template-Name*](Template-Name#template-Name) -->
 <!-- > [Template-Name - Itch Link](https://yrgo.itch.io/Template-Name) -->
 ---
@@ -46,7 +58,6 @@ And we have added our own gameplay logic and sprites.
 Game      : Mobile Game
 Role      : Gameplay Programmer/ Designer ect
 When      : 2026 januari - 2026 februari
-Developer : School Project
 Engine    : Unity
 Team size : solo
 
@@ -67,7 +78,9 @@ Highscore saving to Firebase Database.
 
 ```
 > [!NOTE]
-This site is still wip.
+
+> This site is still wip.
+
 <!-- > ## [*Mobile Game*](MobileGame#mobile-game) -->
 <!-- > [Template-Name - Itch Link](https://yrgo.itch.io/Template-Name) -->
 
@@ -83,7 +96,6 @@ This site is still wip.
 Game      : Florida Man On The Run!
 Role      : Gameplay Programmer, Project Manager, Producer
 When      : 2025 december - 2026 januari
-Developer : School Project
 Engine    : Unity
 Team Size : 6
 
@@ -113,7 +125,6 @@ camera shake, score manager and score UI.
 Game      : Pale Reflections
 Role      : Gameplay Programmer, AI implementation
 When      : 2026 march - 2026 june
-Developer : School Project
 Engine    : Unreal Engine
 Team Size : 6 people
 
