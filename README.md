@@ -78,7 +78,7 @@ Highscore saving to Firebase Database.
 
 ```
 > [!NOTE]
-
+>
 > This site is still wip.
 
 <!-- > ## [*Mobile Game*](MobileGame#mobile-game) -->
@@ -97,7 +97,7 @@ Game      : Florida Man On The Run!
 Role      : Gameplay Programmer, Project Manager, Producer
 When      : 2025 december - 2026 januari
 Engine    : Unity
-Team Size : 6
+Team Size : 7 - (3 programmers)
 
 Game pitch and idea by me. 
 Inspired by very old games like TonyHawk Pro skateboarder and other extream sport games. 
@@ -126,7 +126,7 @@ Game      : Pale Reflections
 Role      : Gameplay Programmer, AI implementation
 When      : 2026 march - 2026 june
 Engine    : Unreal Engine
-Team Size : 6 people
+Team Size : 6 people - (3 programmers)
 
 A stealth/horror game where you only see the monsters through the mirrors.
 My primary role was building the main enemy AI and the roof enemy logic.
@@ -165,9 +165,9 @@ Side projects
     FPS stuff
 
 Game Jams:
-    - Local multiplayer battler using wands -
+    - Local multiplayer 2D battler -
     Programmer
-    - Eldrich Horror - 
+    - Eldrich Horror -
     Sprite animations and some programming
     - Caretaker -
     Programmer and 3D art

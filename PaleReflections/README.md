@@ -1,6 +1,7 @@
 # *Pale Reflections*
 
-<img src=".\Img\palereflection_itch.gif"/>
+<img src=".\img\palereflection_itch.gif"/>
+
 
 Pale Reflections is a 3D first person survival horror experience featuring the use of mirrors and reflections as the major mechanic of the game. It was created in 8 weeks as a school project.
 It's stealth/horror game where you only see the monsters through the mirrors.
@@ -20,13 +21,14 @@ And all the integration with the main enemy AI of the above.
 The work also involved talking to the creature artist and planning 
 for the different animations needed and possible behavior.
 
-<img src=".\Img\pale_death.wep"/>
+<img src=".\img\pale_death.wep"/>
+
 
 We also created the death cutscene together.
 
 
 
-See the game on Itch[https://yrgo.itch.io/pale-reflections]
+[See the game on Itch](https://yrgo.itch.io/pale-reflections)
 
 *CREDITS*
 Billy Becker (programmer, UI design)
