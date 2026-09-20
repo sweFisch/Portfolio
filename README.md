@@ -79,9 +79,8 @@ Highscore saving to Firebase Database.
 ```
 > [!NOTE]
 >
-> This site is still wip.
-
-<!-- > ## [*Mobile Game*](MobileGame#mobile-game) -->
+> This site is still wip. \
+> [*Read more about the Mobile Game Project*](MobileGame#mobile-game)
 <!-- > [Template-Name - Itch Link](https://yrgo.itch.io/Template-Name) -->
 
 ---
