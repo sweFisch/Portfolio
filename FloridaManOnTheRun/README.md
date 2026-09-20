@@ -7,7 +7,7 @@
 [Florida Man On The Run - Itch Link](https://yrgo-game-creator.itch.io/florida-man-on-the-run)
 
 Worked as **Gameplay Programmer / Project Manager / Producer**  
-*2025 December - 2026 Januari*
+*2025 December - 2026 January*
 
 Florida Man on The Run is a 2D side scrolling extreme sports game in the vein of Tony Hawk / Dave Mirra BMX.\ 
 It's an Arcade Sport Games, with graphics inspired by year 2000 cartoons.\
@@ -21,10 +21,10 @@ We made the game during 8 weeks with 3 programmers and 4 artists.
 - Game Concept and Pitch
 - Player Controller
 - Camera
-- Parralax
+- Parallax
 - Level design Art Tool
 - Project Management
-- Sound Manager implementattion
+- Sound Manager implementation
 
 **Some of the implementations involves:**
 - Input Management / Combo System / UI
@@ -32,7 +32,7 @@ We made the game during 8 weeks with 3 programmers and 4 artists.
 - Talking and adding functionality to Game managers, UI manager
 - Scriptable Objects
 - State Machine
-- Singeltons
+- Singletons
 
 **Other tasks & Improvements I made:**  
 - Animation controller using .crossfade, Integration of animations, Some Animation work
@@ -52,8 +52,8 @@ We made the game during 8 weeks with 3 programmers and 4 artists.
   </tr>
 </table>
 
-A tool for quickly placing random perfab assets along a line.\
-Each Art Prefab are referenced in a Scriptable Object containting the perfered distance it needs to fit, and a offset value.\
+A tool for quickly placing random prefab assets along a line.\
+Each Art Prefab are referenced in a Scriptable Object containing the preferred distance it needs to fit, and a offset value.\
 [ArtObjectSO.cs](.\Script\ArtTool\ArtObjectSO.cs)
 
 That is then put in another Scriptable Object that contains multiple Arrays of the different type of Art Assets.\
@@ -88,7 +88,7 @@ public class ArtToolEditorScript : Editor
 
         artTool.CurrentPrefab = (GameObject)EditorGUILayout.ObjectField("Prefab", artTool.CurrentPrefab, typeof(GameObject), false);
         artTool.Spacing = (float)EditorGUILayout.FloatField("Spacing", artTool.Spacing);
-        artTool.YOffsett = (float)EditorGUILayout.FloatField("Y Offset", artTool.YOffsett);
+        artTool.YOffset = (float)EditorGUILayout.FloatField("Y Offset", artTool.YOffset);
         artTool.SpacingCount = (int)EditorGUILayout.IntField("Spacing Count", artTool.SpacingCount);
         artTool.ParentToSpline = (bool)EditorGUILayout.Toggle("Parent To Spline", artTool.ParentToSpline);
 
@@ -97,7 +97,7 @@ public class ArtToolEditorScript : Editor
         {
             //levelBuilderTool.RemoveChildren();
             Debug.Log("Pressing - Place Assets");
-            artTool.PlaceChoosenPrefab();
+            artTool.PlaceChosenPrefab();
         }
 
         artTool.ArtObjectCollectionSO = (ArtObjectCollectionSO)EditorGUILayout.ObjectField("Prefab", artTool.ArtObjectCollectionSO, typeof(ArtObjectCollectionSO), false);
@@ -118,7 +118,7 @@ public class ArtToolEditorScript : Editor
             artTool.PlaceArtCollectionSO();
         }
         // ...
-        // Shortend list of buttons
+        // Shortened list of buttons
         // ...
         if (GUILayout.Button("Place L3 BG"))
         {
@@ -166,7 +166,7 @@ public class ArtTool : MonoBehaviour
     public ArtObjectCollectionSO ArtObjectCollectionSO;
     public GameObject CurrentPrefab;
     public float Spacing = 10f;
-    public float YOffsett = 0f;
+    public float YOffset = 0f;
     public int SpacingCount = 0;
     public bool ParentToSpline = true;
 
@@ -193,7 +193,7 @@ public class ArtTool : MonoBehaviour
         return currentCopy;
     }
 
-    public void PlaceChoosenPrefab()
+    public void PlaceChosenPrefab()
     {
         CalculateStartAndEnd();
 
@@ -232,7 +232,7 @@ public class ArtTool : MonoBehaviour
 
                 currentCopy = CreatePrefabAsset(CurrentPrefab);
 
-                currentCopy.transform.position = new Vector3(startPos.x + currentXOffset + transform.position.x, transform.position.y + YOffsett, 0f);
+                currentCopy.transform.position = new Vector3(startPos.x + currentXOffset + transform.position.x, transform.position.y + YOffset, 0f);
 
             }
         }
@@ -250,7 +250,7 @@ public class ArtTool : MonoBehaviour
 
         for (int i = 0; i < 100; i++)
         {
-            ArtObjectSO currentArtObj = GetArtObjecftFromArtObjectCollection(artObjectType);
+            ArtObjectSO currentArtObj = GetArtObjectFromArtObjectCollection(artObjectType);
 
             if(currentArtObj == null) { Debug.LogWarning("Missing artObjectType : " + artObjectType.ToString() + " : Breaking out of Loop!" ); break; }
 
@@ -272,7 +272,7 @@ public class ArtTool : MonoBehaviour
         }
     }
 
-    public ArtObjectSO GetArtObjecftFromArtObjectCollection(ArtObjectType type)
+    public ArtObjectSO GetArtObjectFromArtObjectCollection(ArtObjectType type)
     {
         switch (type)
         {
