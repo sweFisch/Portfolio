@@ -15,19 +15,19 @@ Click the name of the project read more!
 # Games
 
 <!-- SOKOBAN start -->
-## [***Sokoban***](Sokoban#sokoban)
+## [***Sokoban of ice and fire***](Sokoban#sokoban)
 
 <img src=".\Images\Sokoban-KeyArt.jpg"/>
 
 ```
-Game      : Sokoban
+Game      : Sokoban of ice and fire
 Role      : Gameplay Programmer, Sprite artist
 When      : 2026 August - 2026 September
 Engine    : C++ and SDL
 Team size : solo -> growing to a 2 person team
 
-School assignment to create a sokoban game using the simple game engine built
-from scratch in C++ primarily using SDL as a library.
+School assignment to create a sokoban game using the simple game engine we built
+in C++ using SDL.
 
 Engine features:
 Custom memory arena and data oriented entities
@@ -50,12 +50,12 @@ And as a team we have added our own gameplay logic and sprites.
 <!-- end of SOKOBAN  -->
 
 <!-- Mobile Game - start  -->
-## [***Mobile Game***](MobileGame#mobile-game)
+## [***Endless Dungeon - Mobile Game***](MobileGame#mobile-game)
 
 <img src=".\Images\MobileGame-KeyArt.jpg"/>
 
 ```
-Game      : Mobile Game
+Game      : Endless Dungeon - Mobile Game
 Role      : Gameplay Programmer/ Designer ect
 When      : 2026 january - 2026 february
 Engine    : Unity

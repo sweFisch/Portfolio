@@ -1,6 +1,6 @@
 <!-- Formatting Docs -->
 <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
-# *Mobile Game (solo project)*
+# *Endless Dungeon - Mobile Game (solo project)*
 
 The assignment was simple use Unity, make a mobile game, use some programming patterns, go.
 
