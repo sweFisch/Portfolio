@@ -30,3 +30,11 @@ And maybe it would have been better letting the player just run and reset the wo
 In hindsight i would have done some things different, and refactored quite a lot. But as per usual in game development you do what you can to get something working and out the door, to the best of your available time and skills.
 
 Im still pleased with the project overall and happy that I made it. I learnt a lot of things and see fun in it even if I would like to update the art and give the levels some more variation in patterns.
+
+## Source files Script examples
+
+A collection of different scripts that i made for the project
+
+## Playable build
+
+Download and play on an android phone
