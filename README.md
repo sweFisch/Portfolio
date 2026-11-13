@@ -17,7 +17,7 @@ Click the name of the project read more!
 <!-- SOKOBAN start -->
 ## [***Sokoban of ice and fire***](Sokoban#sokoban)
 
-<img src=".\Images\Sokoban-KeyArt.jpg"/>
+<img src=".\Images\Sokoban-KeyArt.webp"/>
 
 ```
 Game      : Sokoban of ice and fire
@@ -34,8 +34,8 @@ Custom memory arena and data oriented entities
 Hot reload - game logic DLL - while game is running
 
 I have done extensions to the base engine by: 
-Adding an level editor in engine. (<- wip)
-Implemented my own rule tile code. (<- wip)
+Adding an level editor in engine.
+Implemented my own rule tile code for walls.
 Made changes to the rendering and animation system.
 And as a team we have added our own gameplay logic and sprites.
 

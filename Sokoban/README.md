@@ -1,9 +1,10 @@
 <!-- Formatting Docs -->
 <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 # *Sokoban of ice and fire*
+<img src=".\img\sokoban_playtrough_zoom.webp"/>
 
 It's been interesting to make a game without much more than some code and very simple assets.
-It has been a lot of new things to learn: 
+It has been a lot of new things to learn:
 Making the build instructions in CMAKE and the base architecture and how the game renders things.
 Keeping the game loop orderly and logical.
 Using a vim like editor "Helix", only using Visual Studio for debugging.
@@ -17,3 +18,6 @@ Hot-reloading
 Memory management using memory arenas
 new syntax and bitwise operations
 
+<img src=".\img\sokoban_editlevel_2.webp"/>
+
+Handling everything as raw as data
