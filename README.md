@@ -182,6 +182,7 @@ Game Jams:
 
 > [!NOTE]
 > [*Read more about other projects*](SmallProjects#smallprojects)
+>
 > [Template-Name - Itch Link](https://yrgo.itch.io/Template-Name)
 ---
 

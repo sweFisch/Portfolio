@@ -38,3 +38,5 @@ A collection of different scripts that i made for the project
 ## Playable build
 
 Download and play on an android phone
+https://drive.google.com/drive/folders/1jdHXPdgNakodzqpMAFDIgOBoo-6VFfMu?usp=drive_link
+

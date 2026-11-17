@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 538d5acc24961404aa5317e85f17b131, type: 3}
+  m_Name: PowerUpPickUpCollectionSO
+  m_EditorClassIdentifier: Assembly-CSharp::PowerUpPickUpCollectionSO
+  powerUpDataSOArray:
+  - {fileID: 11400000, guid: 3e8fd6924558d0148a4311f2da66705f, type: 2}
+  - {fileID: 11400000, guid: 9d5e3392b6e1ab841be1767f14da2b0f, type: 2}
+  - {fileID: 11400000, guid: 472b7f934af7f4e42904b863a37a1415, type: 2}
+  - {fileID: 11400000, guid: 3810c56ee455206428e174804dd648e5, type: 2}
+  - {fileID: 11400000, guid: 343309ca9d230664eb51620a401f47c2, type: 2}

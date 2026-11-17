@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df19dfd672ac3fd4ebb138f15e5e2f47, type: 3}
+  m_Name: DangerProps Collection
+  m_EditorClassIdentifier: Assembly-CSharp::DangerPropsSO
+  Low:
+  - {fileID: 7395241305732172207, guid: 687d281c2a6aa11439db447a18425786, type: 3}
+  LowDuck:
+  - {fileID: 5314820754887132301, guid: a5098293f90983444b1f3328b1e6c751, type: 3}
+  High:
+  - {fileID: 7395241305732172207, guid: 649d0494615c99d4896234302a2dfdf3, type: 3}
+  HighDuck:
+  - {fileID: 5314820754887132301, guid: 5215fef841c991f47ad561d2b3e25769, type: 3}
+  LowPlattform:
+  - {fileID: 5286940881647584389, guid: bdb9a7847449cb94d9479f39aebff8b5, type: 3}
+  HighPlattform:
+  - {fileID: 429240625705780921, guid: c768544db34065e40b99ef5142a3e6ba, type: 3}
+  LowMoving:
+  - {fileID: 8536235374033841591, guid: b9e6f742004599d48a7fe42dfd850d50, type: 3}
+  HighMoving:
+  - {fileID: 8536235374033841591, guid: 52e86da55af5e8542b54722820c62edf, type: 3}
