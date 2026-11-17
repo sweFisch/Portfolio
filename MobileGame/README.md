@@ -2,10 +2,14 @@
 <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 # *Endless Dungeon - Mobile Game (solo project)*
 
+<img src=".\img\endless_gameplay.webp"/>
+
 The assignment was simple use Unity, make a mobile game, use some programming patterns, go.
 
 
 I have always quite liked Subway Surfer and obviously looked quite close on that game during the design of my project. As I saw this as a learning opportunity i focused on getting some kind of base of that game working in 3D with the core mechanics and a similar feel to that game in responsiveness and player control.
+
+<img src=".\img\endless_powerup.webp"/>
 
 I like the simple design, and the quite good mechanics with jump canceling, ducking, powerups, and the flow of their levels. It's semi predictable chunks of level sections that you can learn to get good at the game. And it felt like a reasonable challenge at my stage of development.
 
@@ -20,6 +24,7 @@ to keep the references of the data inside.
 And a another scriptable object containing an array and information needed to spawn the array in order or spawn them randomly.
 That allowed me to design level sections that could be somewhat random but have a controllable flow. Allowing for rules regarding spawning.
 
+<img src=".\img\endless_menu.webp"/>
 
 The art is quite close to subway surfer in its current stage, as it was easy to model out and make the first version of. The plan was always to redesign it to be a dungeon theme, using different monsters as obstacles that you slice trough using a greatsword. I made a simple sword swinging (red cube) click action that you can use on smaller obstacles.
 But sadly the time alloted did not allowed me to make those changes to art. And there were quit a lot of non project time going to reading about patterns and making small side projects to learn more about them as well.
@@ -34,6 +39,16 @@ Im still pleased with the project overall and happy that I made it. I learnt a l
 ## Source files Script examples
 
 A collection of different scripts that i made for the project
+
+[Player.cs](.\scripts\Player\Player.cs)
+
+[PlayerStateMachine.cs](.\scripts\Player\PlayerMachine\PlayerStateMachine.cs)
+
+[GameManager.cs](.\scripts\GameManager.cs)
+
+[LevelGenerator.cs](.\scripts\LevelGeneration\LevelGenerator.cs)
+
+You are free to explore more scripts in the folder if you want. For example the different player states.
 
 ## Playable build
 

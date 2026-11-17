@@ -51,7 +51,7 @@ And as a team we have added our own gameplay logic and sprites.
 <!-- Mobile Game - start  -->
 ## [***Endless Dungeon - Mobile Game***](MobileGame#mobile-game)
 
-<img src=".\Images\MobileGame-KeyArt.jpg"/>
+<img src=".\Images\MobileGame-KeyArt.webp"/>
 
 ```
 Game      : Endless Dungeon - Mobile Game
