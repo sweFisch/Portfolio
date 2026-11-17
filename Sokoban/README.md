@@ -359,16 +359,19 @@ void DrawRuleTile(SDL_Renderer* renderer, Sprite* spriteBuffer, Walls* wallsStru
 
 If you want to see more of the code the source files are here:
 
+[main.cpp](.\src\main.cpp)
+
 [game.cpp](.\src\game.cpp)
 
 [command.cpp](.\src\command.cpp)
 
 [levels.cpp](.\src\levels.cpp)
 
+
 ## Playable Build
 
-A playable release build is available here:
-
+A playable release build is available here:\
+[sokoban_iaf_release.zip](.\build\sokoban_iaf_release.zip)
 
 
 ## Credits 

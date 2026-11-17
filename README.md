@@ -41,7 +41,6 @@ And as a team we have added our own gameplay logic and sprites.
 
 ```
 > [!NOTE]
-> This game and site is WIP
 >
 > [Read more about the Sokoban project](Sokoban#sokoban)
 <!-- > ## [*Read more about Template-Name*](Template-Name#template-Name) -->
@@ -79,7 +78,6 @@ Highscore saving to Firebase Database.
 ```
 > [!NOTE]
 >
-> This site is still wip. \
 > [*Read more about the Mobile Game Project*](MobileGame#mobile-game)
 <!-- > [Template-Name - Itch Link](https://yrgo.itch.io/Template-Name) -->
 
